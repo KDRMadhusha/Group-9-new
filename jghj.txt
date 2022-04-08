@@ -1,0 +1,57 @@
+<div class="col-md-6">
+                             <div class="box">
+                                <img src="img/cate3.jpg" style="width:320px">
+                                  <p><span>Chris Fox.</span> CEO at Mighty Schools.</p>
+                                  <p>Handmade businesses are becoming more and more popular. But before you start
+                                     a handmade business of your own, you need to come up with some handmade items 
+                                     you can sell. There are so many different categories out there that can help you 
+                                      attract buyers on platforms like Etsy, Amazon or even your own ecommerce shop. 
+                                     Here are some popular handmade items you can sell online.</p><br>
+
+                                      <a href="#"  target="_blank"><button>Order Now</button></a>
+                                        <a href="#" target="_blank"><button>Contact Seller</button></a>
+
+                                      </div>
+                                      <div class="col-md-6">
+                                        <div class="box">
+                                            <img src="img/cate2.jpg" style="width:320px">
+                                             <p><span>Chris Fox.</span> CEO at Mighty Schools.</p>
+                                                 <p>Handmade businesses are becoming more and more popular. But before you start
+                                                   a handmade business of your own, you need to come up with some handmade items 
+                                                   you can sell. There are so many different categories out there that can help you 
+                                                   attract buyers on platforms like Etsy, Amazon or even your own ecommerce shop. 
+                                                     Here are some popular handmade items you can sell online.</p><br>
+
+                                                        <a href="#"  target="_blank"><button>Order Now</button></a>
+                                                        <a href="#" target="_blank"><button>Contact Seller</button></a>
+                                                        </div>
+                                        </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                        <div class="box">
+                                <img src="img/cate3.jpg" style="width:320px">
+                                  <p><span>Chris Fox.</span> CEO at Mighty Schools.</p>
+                                  <p>Handmade businesses are becoming more and more popular. But before you start
+                                     a handmade business of your own, you need to come up with some handmade items 
+                                     you can sell. There are so many different categories out there that can help you 
+                                      attract buyers on platforms like Etsy, Amazon or even your own ecommerce shop. 
+                                     Here are some popular handmade items you can sell online.</p><br>
+
+                                      <a href="#"  target="_blank"><button>Order Now</button></a>
+                                        <a href="#" target="_blank"><button>Contact Seller</button></a>
+
+                                      </div>
+
+                                        <div class="box">
+                                            <img src="img/cate2.jpg" style="width:320px">
+                                             <p><span>Chris Fox.</span> CEO at Mighty Schools.</p>
+                                                 <p>Handmade businesses are becoming more and more popular. But before you start
+                                                   a handmade business of your own, you need to come up with some handmade items 
+                                                   you can sell. There are so many different categories out there that can help you 
+                                                   attract buyers on platforms like Etsy, Amazon or even your own ecommerce shop. 
+                                                     Here are some popular handmade items you can sell online.</p><br>
+
+                                                        <a href="#"  target="_blank"><button>Order Now</button></a>
+                                                        <a href="#" target="_blank"><button>Contact Seller</button></a>
+                                                        </div>
+                </div>
